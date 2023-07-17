@@ -1,8 +1,8 @@
 class Bugs < Formula
   desc "Opinionated tool for doing project management in Jira at Command Line"
-  version "0.1.8"
+  version "0.1.9"
   homepage "https://github.com/reddit/bugs"
-  url "https://github.com/reddit/bugs.git", :tag => "v0.1.8"
+  url "https://github.com/reddit/bugs.git", :tag => "v0.1.9"
   sha256 "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
 
   depends_on "ankitpokhrel/jira-cli/jira-cli"
